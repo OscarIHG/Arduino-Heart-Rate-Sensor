@@ -68,4 +68,4 @@ Below are the diagrams created in Fritzing to illustrate the circuit's layout:
 
 ## Credits
 - Jose Carlos Velaso Lopez
-- Yaisiri Monserrat
+- Yaisiri Monserrat Hernandez Leon
