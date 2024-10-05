@@ -65,3 +65,7 @@ Below are the diagrams created in Fritzing to illustrate the circuit's layout:
 - **MATLAB** (optional, for signal analysis).
 - **Instrument Control Toolbox.**
 - **MATLAB Support Package for Arduino Hardware.**
+
+## Credits
+- Jose Carlos Velaso Lopez
+- Yaisiri Monserrat
